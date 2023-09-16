@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/23607/Desktop/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/23607/Desktop/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/23607/Desktop/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/23607/Desktop/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/23607/Desktop/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/23607/Desktop/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Health_Bar.uasset",
+				"C:/Users/23607/Desktop/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Score_Mesh.uasset",
+				"C:/Users/23607/Desktop/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Score.uasset",
+				"C:/Users/23607/Desktop/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Material.uasset",
+				"C:/Users/23607/Desktop/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_HealthPack.uasset",
+				"C:/Users/23607/Desktop/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/CameraShake.uasset",
+				"C:/Users/23607/Desktop/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_CameraShake.uasset",
+				"C:/Users/23607/Desktop/CS 415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/UE_5.2/Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset"
+			]
+		}
+	]
+}
